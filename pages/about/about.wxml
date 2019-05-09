@@ -1,0 +1,15 @@
+<view class="weapp-about">
+    <view class="weapp-name">电影推荐1.0.0</view>
+    <view class="webapp-intro">
+        <view class="webapp-intro-item">
+            <view class="webapp-intro-title">内容来源</view>
+            <view class="webapp-intro-content">豆瓣API：https://developers.douban.com/</view>
+            <view class='webapp-intro-title'>定位数据</view>
+            <view class="webapp-intro-content">百度地图API：http://lbsyun.baidu.com/</view>
+        </view>
+        <view class="webapp-intro-item">
+            <view class="webapp-intro-title">作者</view>
+            <view class="webapp-intro-content">peibn</view>
+        </view>
+    </view>
+</view>
